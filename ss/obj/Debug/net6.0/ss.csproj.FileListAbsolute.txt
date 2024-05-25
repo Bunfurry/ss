@@ -1,0 +1,14 @@
+C:\Users\KagePC\source\repos\ss\ss\obj\Debug\net6.0\ss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KagePC\source\repos\ss\ss\obj\Debug\net6.0\ss.AssemblyInfoInputs.cache
+C:\Users\KagePC\source\repos\ss\ss\obj\Debug\net6.0\ss.AssemblyInfo.cs
+C:\Users\KagePC\source\repos\ss\ss\obj\Debug\net6.0\ss.csproj.CoreCompileInputs.cache
+C:\Users\KagePC\source\repos\ss\ss\bin\Debug\net6.0\ss.exe
+C:\Users\KagePC\source\repos\ss\ss\bin\Debug\net6.0\ss.deps.json
+C:\Users\KagePC\source\repos\ss\ss\bin\Debug\net6.0\ss.runtimeconfig.json
+C:\Users\KagePC\source\repos\ss\ss\bin\Debug\net6.0\ss.dll
+C:\Users\KagePC\source\repos\ss\ss\bin\Debug\net6.0\ss.pdb
+C:\Users\KagePC\source\repos\ss\ss\obj\Debug\net6.0\ss.dll
+C:\Users\KagePC\source\repos\ss\ss\obj\Debug\net6.0\refint\ss.dll
+C:\Users\KagePC\source\repos\ss\ss\obj\Debug\net6.0\ss.pdb
+C:\Users\KagePC\source\repos\ss\ss\obj\Debug\net6.0\ss.genruntimeconfig.cache
+C:\Users\KagePC\source\repos\ss\ss\obj\Debug\net6.0\ref\ss.dll
