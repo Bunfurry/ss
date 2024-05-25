@@ -42,7 +42,7 @@ class Program
             }
             else
             {
-                Console.WriteLine("Ошибка: деление на ноль!");
+                Console.WriteLine("Деление на ноль! ОТМЕНА");
             }
         }
         else
